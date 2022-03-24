@@ -1,13 +1,12 @@
-.paragrafo-padrao{
-background-color: #f5f5f5;
+.paragrafo-padrao {
+  background-color: #f5f5f5;
 }
 
-.paragrafo-destacado{
-background-color: #f0cce2;
+.paragrafo-destacado {
+  background-color: #f0cce2;
 }
 
-
-.texto{
+.texto {
   margin: 40px;
   padding: 20px;
 }
